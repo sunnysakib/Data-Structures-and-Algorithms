@@ -1,14 +1,16 @@
 <h1>Interview Cheat Sheet</h1>
 
 <div>
-<h6>The 3 pillars of good code:</h6>
+<h3>The 3 pillars of good code:</h3>
+<div>
 1. Readable
 2. Time Complexity
 3. Space Complexity
 </div>
+</div>
 
 <div>
-    <h6>What skills interviewer is looking for:</h6>
+    <h3>What skills interviewer is looking for:</h3>
     <ul>
         <li>Analytic Skills - How can you think through problems and analyze things?</li>
         <li>Coding Skills - Do you code well, by writing clean, simple, organized, readable code?</li>
@@ -18,6 +20,7 @@
 </div>
 <div>
     <h6>Step By Step through a problem:</h6>
+<div>
 1. When the interviewer says the question, write down the key points at the top (i.e. sorted
 array). Make sure you have all the details. Show how organized you are.
 2. Make sure you double check: What are the inputs? What are the outputs?
@@ -63,6 +66,7 @@ This is a common follow-up question at Google, where they care a lot about scale
 is usually a divide-and-conquer approach — perform distributed processing of the data and only
 read certain chunks of the input from disk into memory, write the output back to disk and
 combine them later.
+</div>
 </div>
 <div></div>
 <div></div>
