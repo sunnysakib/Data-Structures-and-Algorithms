@@ -16,7 +16,7 @@
     </ul>
 </div>
 <div>
-    <h6>Step By Step through a problem:</h6>
+    <h4>Step By Step through a problem:</h4>
     <p> 
         1. When the interviewer says the question, write down the key points at the top (i.e. sorted
         array). Make sure you have all the details. Show how organized you are.
