@@ -1,18 +1,23 @@
-
 <h1>Interview Cheat Sheet</h1>
-<div>
 
-The 3 pillars of good code:
+<div>
+<h6>The 3 pillars of good code:</h6>
 1. Readable
 2. Time Complexity
 3. Space Complexity
 </div>
-What skills interviewer is looking for:
-Analytic Skills - How can you think through problems and analyze things?
-Coding Skills - Do you code well, by writing clean, simple, organized, readable code?
-Technical knowledge - Do you know the fundamentals of the job you're applying for?
-Communication skills: Does your personality match the companies’ culture?
-Step By Step through a problem:
+
+<div>
+    <h6>What skills interviewer is looking for:</h6>
+    <ul>
+        <li>Analytic Skills - How can you think through problems and analyze things?</li>
+        <li>Coding Skills - Do you code well, by writing clean, simple, organized, readable code?</li>
+        <li>Technical knowledge - Do you know the fundamentals of the job you're applying for?</li>
+        <li>Communication skills: Does your personality match the companies’ culture?</li>
+    </ul>
+</div>
+<div>
+    <h6>Step By Step through a problem:</h6>
 1. When the interviewer says the question, write down the key points at the top (i.e. sorted
 array). Make sure you have all the details. Show how organized you are.
 2. Make sure you double check: What are the inputs? What are the outputs?
@@ -58,6 +63,15 @@ This is a common follow-up question at Google, where they care a lot about scale
 is usually a divide-and-conquer approach — perform distributed processing of the data and only
 read certain chunks of the input from disk into memory, write the output back to disk and
 combine them later.
+</div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+
 Good code checklist:
 [✅]It works
 [✅]Good use of data structures
