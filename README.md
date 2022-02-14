@@ -1,9 +1,12 @@
 
 <h1>Interview Cheat Sheet</h1>
+<div>
+
 The 3 pillars of good code:
 1. Readable
 2. Time Complexity
 3. Space Complexity
+</div>
 What skills interviewer is looking for:
 Analytic Skills - How can you think through problems and analyze things?
 Coding Skills - Do you code well, by writing clean, simple, organized, readable code?
